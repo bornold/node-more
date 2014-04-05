@@ -1,0 +1,6 @@
+A small extension that lets you remove nodes by holding ctrl+alt and clicking them.
+Needs much more functionality.
+
+- press ctrl+z to regret a node hide
+- mapping for macs
+- preventdefault does not work on most ads, so need to look in to that
