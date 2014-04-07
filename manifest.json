@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "node more",
-  "description": "Hold ctrl+alt and click on something to hide it.",
-  "version": "0.0.1",
+  "description": "Hold ctrl+alt and click on something to hide it, ctrl+z to regret.",
+  "version": "0.0.2",
    "content_scripts": [
     {
       "matches": ["<all_urls>"],

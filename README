@@ -1,7 +1,0 @@
-A small extension that lets you remove nodes by holding ctrl+alt and clicking them.
-Needs much more functionality.
-
-- keymapping for macs
-- preventdefault does not work on most ads, so need to look in to that
-- if focus lost, ctrl and alt = false
-
